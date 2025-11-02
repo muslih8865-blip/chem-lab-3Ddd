@@ -1,1 +1,0 @@
-Chem Games 3D - Unzip and open index.html or deploy to GitHub Pages.
